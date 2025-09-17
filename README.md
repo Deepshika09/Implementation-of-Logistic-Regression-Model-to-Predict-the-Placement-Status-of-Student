@@ -80,27 +80,62 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 
-<img width="1221" height="226" alt="311938296-0a5cda11-f165-4e1b-86ec-5f16a2f1ee09" src="https://github.com/user-attachments/assets/83da49b5-627f-4201-8cd9-d08abdd8903e" />
+### TOP 5 ELEMENTS
+![image](https://github.com/gauthamkrishna7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/141175025/0a5cda11-f165-4e1b-86ec-5f16a2f1ee09)
 
-<img width="1091" height="240" alt="311938319-01a8cd00-a0ac-49e9-bdc5-116dc5c20f3d" src="https://github.com/user-attachments/assets/bb03144c-c5ea-4fee-a7d9-211ad798c1fb" />
+![image](https://github.com/gauthamkrishna7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/141175025/01a8cd00-a0ac-49e9-bdc5-116dc5c20f3d)
 
-<img width="982" height="497" alt="311938372-877b2b6f-3436-47e1-9833-e0f9ad9aa560" src="https://github.com/user-attachments/assets/e5e03648-a992-4fd9-b72b-61ea65239e11" />
+![image](https://github.com/gauthamkrishna7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/141175025/877b2b6f-3436-47e1-9833-e0f9ad9aa560)
 
-<img width="982" height="497" alt="311938372-877b2b6f-3436-47e1-9833-e0f9ad9aa560" src="https://github.com/user-attachments/assets/e719e31d-17a1-4ef7-9158-6348ec13c7e5" />
+### Data Duplicate:
+![image](https://github.com/gauthamkrishna7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/141175025/9f5231e0-796f-4f94-a0bf-d38784643278)
 
-<img width="61" height="48" alt="311938462-9f5231e0-796f-4f94-a0bf-d38784643278" src="https://github.com/user-attachments/assets/12f348f8-9224-4ed2-836c-6093fd05d7b7" />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<img width="982" height="502" alt="311938555-8ff146fd-7c1b-4323-8bba-b9fedaee4ab1" src="https://github.com/user-attachments/assets/0687931f-f625-4e7e-a05f-20517dd27978" />
 
-<img width="922" height="510" alt="311938584-8e99861d-c573-4987-9024-596a68482332" src="https://github.com/user-attachments/assets/b90fe1e7-e103-40ab-b839-0e212f98d554" />
+### Print Data:
+![image](https://github.com/gauthamkrishna7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/141175025/8ff146fd-7c1b-4323-8bba-b9fedaee4ab1)
 
-<img width="586" height="263" alt="311938611-a0cf6d5c-79d4-485e-84ea-e6601f115379" src="https://github.com/user-attachments/assets/17f9fb65-b442-4a31-80c4-0ee6aba9d698" />
+### Data-Status:
+![image](https://github.com/gauthamkrishna7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/141175025/8e99861d-c573-4987-9024-596a68482332)
 
-<img width="762" height="71" alt="311938646-58525a0d-f694-4ddf-ac84-5b596381c5ef" src="https://github.com/user-attachments/assets/64196ed1-1438-429f-865e-7db6b07b2af7" />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<img width="582" height="176" alt="311938696-9a18c485-4dcb-4116-b6d5-f8fdab5de668" src="https://github.com/user-attachments/assets/423b52a3-539d-4b13-8262-82113192c7a9" />
 
-<img width="303" height="33" alt="311938726-e0aeefa2-a16d-40cd-b5ab-b1b1a22044f1" src="https://github.com/user-attachments/assets/880b885b-73e4-4075-bbb1-f98beb6e063f" />
+
+### y_prediction array:
+![image](https://github.com/gauthamkrishna7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/141175025/a0cf6d5c-79d4-485e-84ea-e6601f115379)
+
+
+
+### Confusion array:
+![image](https://github.com/gauthamkrishna7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/141175025/58525a0d-f694-4ddf-ac84-5b596381c5ef)
+
+
+### Accuracy Value:
+![image](https://github.com/gauthamkrishna7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/141175025/4f64023f-c3c2-45d2-afca-b68b780f5279)
+
+
+### Classification Report:
+![image](https://github.com/gauthamkrishna7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/141175025/9a18c485-4dcb-4116-b6d5-f8fdab5de668)
+
+### Prediction of LR:
+![image](https://github.com/gauthamkrishna7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/141175025/e0aeefa2-a16d-40cd-b5ab-b1b1a22044f1)
+
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
